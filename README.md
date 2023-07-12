@@ -36,3 +36,24 @@ To configure the experiment, the following values can be changed to suit.
 
 ## Results
 Results of the simulation will be displayed during execution. A dictionary containing results on a per-trajectory basis will be returned. A backup will be saved in /results/ every 1000 samples.
+
+
+## Citing
+The full paper for transveral injection can be accessed [here](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033019).
+
+```
+@article{PhysRevResearch.5.033019,
+  title = {Transversal injection for direct encoding of ancilla states for non-Clifford gates using stabilizer codes},
+  author = {Gavriel, Jason and Herr, Daniel and Shaw, Alexis and Bremner, Michael J. and Paler, Alexandru and Devitt, Simon J.},
+  journal = {Phys. Rev. Res.},
+  volume = {5},
+  issue = {3},
+  pages = {033019},
+  numpages = {16},
+  year = {2023},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevResearch.5.033019},
+  url = {https://link.aps.org/doi/10.1103/PhysRevResearch.5.033019}
+}
+```
